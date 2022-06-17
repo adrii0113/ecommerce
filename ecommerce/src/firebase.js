@@ -17,6 +17,7 @@ import {
   addDoc,
 } from "firebase/firestore";
 
+// here i can do better using env variables for this data
 const firebaseConfig = {
     apiKey: "AIzaSyAeYeFh6JVleyLzxO7NhP0CFepQeAg4l-M",
     authDomain: "ecomerceapp-21aaa.firebaseapp.com",
